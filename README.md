@@ -1,15 +1,15 @@
-# reading-notes
-My reading journal at Code Fellows
+# Reading-Notes
+My reading journal for Code Fellows
 
-My Name is Alex Carr and I think Javascript is  
+My Name is Alex Carr and I think Javascript is the *Future* in an ever evolving world.   
 
-Growth Minset means-
+Growth Minset means- That one has the abiity to conquer the difficult, when things seem to be impossible the concept of growth mindset gives one the will to continue and complete all challenges at hand.
 
-Reminder to stay in Growth mindset
+# Reminder to stay in Growth mindset:
 
-- reminder 1
-- reminder 2
-- reminder 3
+- When things seem impossible remember to stay focus and keep pushing through.
+- The mind is ever evolving, but nothing comes without it's own challenges.  
+- **NO** one is born all knowing, we *Must* start somewhere. 
 
 Link to my GitHub portfolio https://alexbcarr.github.io/reading-notes/
 
