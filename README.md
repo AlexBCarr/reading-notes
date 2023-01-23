@@ -11,7 +11,8 @@ Reminder to stay in Growth mindset
 - reminder 2
 - reminder 3
 
-Link to my GitHub portfolio 
+Link to my GitHub portfolio https://alexbcarr.github.io/reading-notes/
+
 
 
 
