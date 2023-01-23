@@ -1,3 +1,5 @@
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTaJ9kTKUTIVU9DmgEpoGrj2cp3cxtYXq-flqw-2lD83cwl_yPWk07VPSQYvtQI26TVM&usqp=CAU
+
 # Reading-Notes 
 
 My reading journal for Code Fellows
