@@ -14,7 +14,7 @@ My Name is Alex Carr and I think Javascript is the **_Future_** in an ever evolv
 
 Link to my GitHub portfolio https://alexbcarr.github.io/reading-notes/
 
-> Where evil men plot, good men plan.
+> Where evil men plot, good men plan. -Dr. Martin Luther King
 
 
 
