@@ -19,6 +19,19 @@ https://alexbcarr.github.io/reading-notes/
 
 > Where evil men plot, good men plan. -Dr. Martin Luther King
 
+## Table of Contents
+
+- [Motivation](Motivation/1.md)
+- [Class 01 Notes](Class102/Class102-01.md)
+- [Class 02 Notes](Class102/Class102-02.md)
+- [Class 03 Notes](Class102/Class102-03.md)
+- [Class 04 Notes](Class102/Class102-04.md)
+- [Class 05 Notes](Class102/Class102-05.md)
+- [Class 06 Notes](Class102/Class102-06.md)
+- [Class 07 Notes](Class102/Class102-07.md)
+- [Class 08 Notes](Class102/Class102-08.md)
+
+
 
 
 
