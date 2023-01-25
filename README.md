@@ -1,35 +1,46 @@
-![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTaJ9kTKUTIVU9DmgEpoGrj2cp3cxtYXq-flqw-2lD83cwl_yPWk07VPSQYvtQI26TVM&usqp=CAU)
 
-# Reading-Notes 
+
+# Intro 
 
 My reading journal for Code Fellows
 
 My Name is Alex Carr and I think Javascript is the **_Future_** in an ever evolving world.   
 
-**Growth Mindset** - That one has the abiity to conquer the difficult, when things seem to be impossible the concept of growth mindset gives one the will to continue and complete all challenges at hand.
-
-# Reminders to stay in Growth mindset:
-
-- When things seem impossible remember to stay focus and keep pushing through.
-- The mind is ever evolving, but nothing comes without it's own challenges.  
-- **_NO_ one person is born all knowing, we _Must_ start somewhere.** 
-
-Link to my GitHub portfolio 
-https://alexbcarr.github.io/reading-notes/
-
-> Where evil men plot, good men plan. -Dr. Martin Luther King
 
 ## Table of Contents
 
+Code 102 Reading Notes
+
 - [Motivation](Motivation/1.md)
-- [Class 01 Notes](Class102/Class102-01.md)
-- [Class 02 Notes](Class102/Class102-02.md)
-- [Class 03 Notes](Class102/Class102-03.md)
-- [Class 04 Notes](Class102/Class102-04.md)
-- [Class 05 Notes](Class102/Class102-05.md)
-- [Class 06 Notes](Class102/Class102-06.md)
-- [Class 07 Notes](Class102/Class102-07.md)
-- [Class 08 Notes](Class102/Class102-08.md)
+- [Class102 01 Reading Notes](Class102/Class102-01.md)
+- [Class102 02 Reading Notes](Class102/Class102-02.md)
+- [Class102 03 Reading Notes](Class102/Class102-03.md)
+- [Class102 04 Reading Notes](Class102/Class102-04.md)
+- [Class102 05 Reading Notes](Class102/Class102-05.md)
+- [Class102 06 Reading Notes](Class102/Class102-06.md)
+- [Class102 07 Reading Notes](Class102/Class102-07.md)
+- [Class102 08 Reading
+Notes](Class102/Class102-08.md)
+
+Code 201 Reading Notes
+
+- [Class201 01 Reading Notes](Class201/Class201-01.md)
+- [Class201 02 Reading Notes](Class201/Class201-02.md)
+- [Class201 03 Reading Notes](Class201/Class201-03.md)
+- [Class201 04 Reading Notes](Class201/Class201-04.md)
+- [Class201 05 Reading Notes](Class201/Class201-05.md)
+- [Class201 06 Reading Notes](Class201/Class201-06.md)
+- [Class201 07 Reading Notes](Class201/Class201-07.md)
+- [Class201 08 Reading Notes](Class201/Class201-08.md)
+- [Class201 09 Reading Notes](Class201/Class201-09.md)
+- [Class201 10 Reading Notes](Class201/Class201-10.md)
+- [Class201 11 Reading Notes](Class201/Class201-11.md)
+- [Class201 12 reading Notes](Class201/Class201-12.md)
+- [Class201 13 Reading Notes](Class201/Class201-13.md)
+- [Class201 14 Reading Notes](Class201/Class201-14.md)
+- [Class201 15 Reading Notes](Class201/Class201-15.md)
+
+
 
 
 
