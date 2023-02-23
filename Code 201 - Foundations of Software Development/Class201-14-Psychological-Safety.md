@@ -1,4 +1,4 @@
-# STORAGE
+# Psychological Safety
 
 ## What are three key factors that contribute to psychologically safe teams?
 - Equality - equal voices, equal input and equal work share.

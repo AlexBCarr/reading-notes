@@ -37,6 +37,7 @@ Code 201 Reading Notes
 - [Class201 11 Reading Notes](Class201/Class201-11.md)
 - [Class201 12 reading Notes](Class201/Class201-12.md)
 - [Class201 13 Reading Notes](Class201/Class201-13.md)
+- [Class201 14 Psychological Reading Notes](Class201/Class201-14-Psychological-Safety.md)
 - [Class201 14 Reading Notes](Class201/Class201-14.md)
 - [Class201 15 Reading Notes](Class201/Class201-15.md)
 
