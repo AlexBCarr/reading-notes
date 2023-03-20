@@ -1,0 +1,39 @@
+# Node.js
+
+## An Introduction to Node.js on sitepoint.com
+
+- What is node.js?
+Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
+
+- In your own words, what is Chrome’s V8 JavaScript Engine?
+This is a JavaScript engine which runs inside Google to manage the JavaScrpit on the users local machine.
+
+- What does it mean that node is a JavaScript runtime?
+It means that the Node.js is used to execute JavaScript.
+
+- What is npm?
+A package manager that comes bundled with Node.
+
+- What version of node are you running on your machine?
+v19.4.0
+
+- What version of npm are you running on your machine?
+9.2.0
+
+- What command would you type to install a library/package called ‘jshint’?
+npm install -g jshint
+
+- What is node used for?
+Designed to automate the process of developing a modern JavaScript application.
+
+
+## Pair Programming
+
+- What are the 6 reasons for pair programming?
+Greater efficiency, engaged collaboration, learning from fellow students, social skill, job interview readiness and work environment readiness.
+
+- In your experience, which of these reasons have you found most beneficial?
+I think for me the two I use it for goes hand in hand and that is greater efficiency and job interview readiness.
+
+- How does pair programming work?
+A another way to also help learn how to write code and read code. Like any other language learning developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
