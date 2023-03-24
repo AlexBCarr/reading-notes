@@ -41,6 +41,25 @@ Code 201 Reading Notes
 - [Class201 14 Reading Notes](Class201/Class201-14.md)
 - [Class201 15 Reading Notes](Class201/Class201-15.md)
 
+Code 301 Reading Notes
+
+- [Class201 01 Reading Notes](Class301/Class301-01.md)
+- [Class201 02 Reading Notes](Class301/Class301-02.md)
+- [Class201 03 Reading Notes](Class301/Class301-03.md)
+- [Class201 04 Reading Notes](Class301/Class301-04.md)
+- [Class201 05 Reading Notes](Class301/Class301-05.md)
+- [Class201 06 Reading Notes](Class301/Class301-06.md)
+- [Class201 07 Reading Notes](Class301/Class301-07.md)
+- [Class201 08 Reading Notes](Class301/Class301-08.md)
+- [Class201 09 Reading Notes](Class301/Class301-09.md)
+- [Class201 10 Reading Notes](Class301/Class301-10.md)
+- [Class201 11 Reading Notes](Class301/Class301-11.md)
+- [Class201 12 reading Notes](Class301/Class301-12.md)
+- [Class201 13 Reading Notes](Class301/Class301-13.md)
+- [Class201 14 Reading Notes](Class301/Class301-14.md)
+- [Class201 14 Reading Notes](Class301/Class301-14.md)
+- [Class201 15 Reading Notes](Class301/Class301-15.md)
+
 
 
 
